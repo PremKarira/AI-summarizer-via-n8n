@@ -1,0 +1,12 @@
+{
+  "name": "ai-summarizer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js input.txt"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
